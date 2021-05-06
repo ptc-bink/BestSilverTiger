@@ -1,9 +1,6 @@
 ¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻
-<div align="center" style="margin: 40px 0">
-    <a href="https://github.com/BestSilverTiger/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=BestSilverTiger&color=DE002D">
-    </a>
-</div>
+
+<h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -39,7 +36,6 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-<h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=BestSilverTiger.BestSilverTiger" />
 <img align="right" src="https://img.shields.io/github/followers/BestSilverTiger?label=Follow&style=social" />
 <h1 align="center"></h1>
