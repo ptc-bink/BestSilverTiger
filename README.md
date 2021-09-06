@@ -1,6 +1,6 @@
 ¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻
 
-<h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
+<h1 align="center"><img align="center" src="https://github.com/BestSilverTiger/BestSilverTiger/blob/main/src/superb.gif?raw=true" style = "width: -webkit-fill-available;"/></h1>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
