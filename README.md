@@ -1,6 +1,6 @@
-¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻 
-Skype ID: live:.cid.7abea62f4ccc379f <br>
-Telegram: @igamezzhen
+¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻  <br>
+🌃 Skype ID: live:.cid.7abea62f4ccc379f <br>
+📶 Telegram: @igamezzhen <br>
 
 <h1 align="center"><img align="center" src="https://github.com/BestSilverTiger/BestSilverTiger/blob/main/src/superb.gif?raw=true" style = "width: -webkit-fill-available;"/></h1>
 
