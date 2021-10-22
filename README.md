@@ -1,6 +1,6 @@
 ¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻 
 This is my CV.
-https://cvdesignr.com/p/61443b25780ab
+https://craftmycv.com/resume/james-michael-1
 
 <h1 align="center"><img align="center" src="https://github.com/BestSilverTiger/BestSilverTiger/blob/main/src/superb.gif?raw=true" style = "width: -webkit-fill-available;"/></h1>
 
