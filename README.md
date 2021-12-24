@@ -1,8 +1,3 @@
-¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻  <br>
-🌃 Skype ID: live:.cid.7abea62f4ccc379f <br>
-📶 Telegram: @idealaunch <br>
-📧 Email: stigerpanda@gmail.com <br>
-
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
@@ -89,6 +84,11 @@
 
 ### 𝘍𝘪𝘯𝘢𝘯𝘤𝘦 𝘪𝘴 𝘰𝘶𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺, 𝘞𝘦 𝘢𝘭𝘦𝘢𝘥𝘺 𝘨𝘰𝘵 𝘭𝘰𝘵𝘴 𝘰𝘧 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴
 𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
+  
+### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
+### 🌃 _Skype ID: live:.cid.7abea62f4ccc379f_
+### 📶 _Telegram: @idealaunch_
+### 📧 _Email: stigerpanda@gmail.com_
 
 </div>
 
