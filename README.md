@@ -1,6 +1,6 @@
 ¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻  <br>
 🌃 Skype ID: live:.cid.7abea62f4ccc379f <br>
-📶 Telegram: @igamezzhen <br>
+📶 Telegram: @idealaunch <br>
 📧 Email: stigerpanda@gmail.com <br>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
