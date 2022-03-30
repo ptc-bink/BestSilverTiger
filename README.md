@@ -87,7 +87,7 @@
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🌃 _Skype ID: live:.cid.7abea62f4ccc379f_
-### 📶 _Telegram: @idealaunch_
+### 📶 _Telegram: @blockchain_engineer0209
 ### 📧 _Email: stigerpanda@gmail.com_
 
 </div>
