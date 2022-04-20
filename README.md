@@ -87,7 +87,7 @@
   
 ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
 ### 🥳 _Discord: Blockchain Engineer#9476
-### 📶 _Telegram: @blockchain_engineer0209
+### 📶 _Telegram: @bluesky0209
 ### 📧 _Email: stigerpanda@gmail.com_
 
 </div>
