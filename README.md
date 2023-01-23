@@ -68,6 +68,10 @@
    </tr>
   </table>
   
+## Contact Me
+<a href="https://discordapp.com/users/9413657214
+62632498">link text</a>
+
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
