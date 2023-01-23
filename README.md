@@ -70,7 +70,7 @@
   
 ## Contact Me
 <a href="https://discordapp.com/users/9413657214
-62632498">link text</a>
+62632498"><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></a>
 
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
