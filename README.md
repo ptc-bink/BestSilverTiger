@@ -67,10 +67,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
   </table>
-  
-## Contact Me
-<a href="https://discordapp.com/users/9413657214
-62632498"><img src="https://cdn.iconscout.com/icon/free/png-64/discord-226015.png" width="100"></a>
 
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
